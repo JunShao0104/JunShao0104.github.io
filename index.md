@@ -12,7 +12,7 @@ Outside of academia, I began my journey as an amateur scoccer player since my mi
 
 
 ## Research Interests
-- **Robot Perception:** 3D Object Detection, 3D Map Segmentation, Semantic Scene Completion
+- **Robot Perception:** Object Detection, Semantic Segmentation, Semantic Scene Completion
 - **Multi-modal Sensor Fusion:** LiDAR-Camera-Radar Fusion for Autonomous Vehicles, Vision-Tactile Fusion for Robotic Manipulation
 - **Robot Learning:** Machine Learning and Reinforcement Learning for Robot Planning and Control
 
