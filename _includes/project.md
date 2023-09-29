@@ -9,7 +9,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/rob530_PitchFigure.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <!-- <abbr class="badge">arXiv</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -34,7 +34,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/obstacle_avoidance_pushing_visualization.gif" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <!-- <abbr class="badge">arXiv</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -61,7 +61,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/eecs504_Merge.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <!-- <abbr class="badge">arXiv</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -87,7 +87,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/soft_robot.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <!-- <abbr class="badge">arXiv</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">

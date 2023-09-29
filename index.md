@@ -12,17 +12,16 @@ Outside of academia, I began my journey as an amateur scoccer player since my mi
 
 
 
-## Course
-- **Graduate Level:** Math for Robotics, Robotics System Lab, Computer Vision, Mobile Robotics, Robot Learning for Planning and Control, Introduction to Robotic Manipulation, Autonomous Vehicles, etc.
-- **Undergraduate Level:** Mechanical Design and Manufacturing, Mechanics, Control of Mechatronic Systems, Introduction to Robotics, Introduction to Artificial Intelligence, Introduction to Electrical Engineering, etc.
-
-
-
 ## Research Interest
 - **Robot Perception:** Object Detection / Tracking, Instance Segmentation, Semantic Scene Completion
 - **Sensor Fusion:** LiDAR-Camera-Radar Fusion for Autonomous Vehicles, Vision-Tactile Fusion for Robotic Manipulation
 - **Robot Learning:** Machine Learning and Reinforcement Learning for Robot Planning and Control
 - **Robot Localization and Mapping:** Semantic Mapping, NeRF-based Robot Localization
+
+
+## Course
+- **Graduate Level:** Math for Robotics, Robotics System Lab, Computer Vision, Mobile Robotics, Robot Learning for Planning and Control, Introduction to Robotic Manipulation, Autonomous Vehicles, etc.
+- **Undergraduate Level:** Mechanical Design and Manufacturing, Mechanics, Control of Mechatronic Systems, Introduction to Robotics, Introduction to Artificial Intelligence, Introduction to Electrical Engineering, etc.
 
 
 {% include_relative _includes/research.md %}

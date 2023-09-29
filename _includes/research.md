@@ -10,7 +10,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/crkd.gif" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <!-- <abbr class="badge">arXiv</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -34,9 +34,9 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 15px;">
     <img src="assets/img/pitch_intro_horizontal_icra.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <!-- <abbr class="badge">arXiv</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -62,7 +62,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/tactile sensor layout.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AHI</abbr>
+    <!-- <abbr class="badge">AHI</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -86,7 +86,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/surgical_robot_model.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <!-- <abbr class="badge">arXiv</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
