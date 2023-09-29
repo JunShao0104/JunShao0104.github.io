@@ -11,7 +11,14 @@ Prior to joining the Master program, I completed my bachelor's degree in Mechani
 Outside of academia, I began my journey as an amateur scoccer player since my middle school. Badminton and table tennis are also my favorite sports. I'm also passionate about photography and travelling.
 
 
-## Research Interests
+
+## Course
+- **Graduate Level** Math for Robotics, Robotics System Lab, Computer Vision, Mobile Robotics, Robot Learning for Planning and Control, Introduction to Robotic Manipulation, Autonomous Vehicles, etc.
+- **Undergraduate Level** Mechanical Design and Manufacturing, Mechanics, Control of Mechatronic Systems, Introduction to Robotics, Introduction to Artificial Intelligence, Introduction to Electrical Engineering, etc.
+
+
+
+## Research Interest
 - **Robot Perception:** Object Detection / Tracking, Instance Segmentation, Semantic Scene Completion
 - **Sensor Fusion:** LiDAR-Camera-Radar Fusion for Autonomous Vehicles, Vision-Tactile Fusion for Robotic Manipulation
 - **Robot Learning:** Machine Learning and Reinforcement Learning for Robot Planning and Control
@@ -25,9 +32,9 @@ Outside of academia, I began my journey as an amateur scoccer player since my mi
 
 
 ## Experience
-- **[Jan. 2023 ~ Present]** *Graduate Research Assistant*, UM Ford Center for Autonomous Vehicles (FCAV), University of Michigan, supervised by Prof. Katherine A. Skinner.
-- **[May. 2021 ~ Sep. 2021]** *Summer Intern*, Laboratory of Micro/Nano Manufacturing Technology, Tianjin University, supervised by Prof. Le Song.
-- **[Apr. 2020 ~ June. 2022]** *Undergraduate Research Assistant*, Key Laboratory of Mechanism Theory and Equipment Design, Tianjin University, supervised by Prof. Fujun Wang.
+- **[Jan. 2023 ~ Present]** *Graduate Research Assistant*, <a href="https://fcav.engin.umich.edu/" target="_blank">UM Ford Center for Autnonomous Vehicles (FCAV)</a>, University of Michigan, supervised by Prof.<a href="https://robotics.umich.edu/profile/katherine-skinner/" target="_blank"> Katie Skinner</a>.
+- **[May. 2021 ~ Sep. 2021]** *Summer Intern*, <a href="http://mnmt2005.tju.edu.cn/index/index.htm" target="_blank">Laboratory of Micro/Nano Manufacturing Technology (MNMT)</a>, Tianjin University, supervised by Prof. <a href="http://faculty.tju.edu.cn/SongLe/en/index.htm" target = "_blank"> Le Song</a>.
+- **[Apr. 2020 ~ June. 2022]** *Undergraduate Research Assistant*, <a href="http://www.tju.edu.cn/english/info/1035/1377.htm" target="_blank">Key Laboratory of Mechanism Theory and Equipment Design</a>, Tianjin University, supervised by Prof. <a href= "http://faculty.tju.edu.cn/FujunWang/en/index.htm" target = "_blank"> Fujun Wang</a>.
 
 
 
@@ -40,7 +47,7 @@ Outside of academia, I began my journey as an amateur scoccer player since my mi
 
 
 
-## Awards
+## Award
 - **[Sep. 2021]** *National Scholarship of China*
 - **[Nov. 2020]** *Weichai Power Scholarship*
 - **[2019 / 2020 / 2021]** *Merit Student of Tianjin University*
