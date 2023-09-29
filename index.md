@@ -39,10 +39,10 @@ Outside of academia, I began my journey as an amateur scoccer player since my mi
 
 
 ## Skill
-- **[Programming Languages: ]** Python, C/C++, MATLAB
-- **[Frameworks and Tools: ]** PyTorch, MMDetection3D, ROS, Linux, Docker, GIT
-- **[Engineering Softwares: ]** SolidWorks, Creo, AutoCAD, ABAQUS, Adams
-- **[Languages: ]** Mandarin, English (TOEFL: 107; GRE: 322+4.0)
+- **Programming Languages:** Python, C/C++, MATLAB
+- **Frameworks and Tools:** PyTorch, MMDetection3D, ROS, Linux, Docker, GIT
+- **Engineering Softwares:** SolidWorks, Creo, AutoCAD, ABAQUS, Adams
+- **Languages:** Mandarin, English (TOEFL: 107; GRE: 322+4.0)
 
 
 
