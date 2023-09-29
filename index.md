@@ -13,8 +13,8 @@ Outside of academia, I began my journey as an amateur scoccer player since my mi
 
 
 ## Course
-- **Graduate Level** Math for Robotics, Robotics System Lab, Computer Vision, Mobile Robotics, Robot Learning for Planning and Control, Introduction to Robotic Manipulation, Autonomous Vehicles, etc.
-- **Undergraduate Level** Mechanical Design and Manufacturing, Mechanics, Control of Mechatronic Systems, Introduction to Robotics, Introduction to Artificial Intelligence, Introduction to Electrical Engineering, etc.
+- **Graduate Level:** Math for Robotics, Robotics System Lab, Computer Vision, Mobile Robotics, Robot Learning for Planning and Control, Introduction to Robotic Manipulation, Autonomous Vehicles, etc.
+- **Undergraduate Level:** Mechanical Design and Manufacturing, Mechanics, Control of Mechatronic Systems, Introduction to Robotics, Introduction to Artificial Intelligence, Introduction to Electrical Engineering, etc.
 
 
 
