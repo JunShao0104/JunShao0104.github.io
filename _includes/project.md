@@ -97,7 +97,7 @@
     <div class="periodical"><em>ROB 550: Robotics Systems Laboratory, 08/2022 ~ 10/2022, University of Michigan.</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
-        <!-- <a href="https://drive.google.com/file/d/1H9Okz8tbjHv_lQ5klEtiOcg1wDveOEfS/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a> -->
+        <a href="https://drive.google.com/file/d/1NQjweeltnoDfmNbUAtlVZsOcliME0gbP/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
         <!-- <a href="https://github.com/JunShao0104/Depth-aware-and-Laplacian-steered-Instance-Style-Transfer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
         <!-- <a href="https://www.youtube.com/watch?v=g6yx-9psMI4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a> -->
         <!-- <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
@@ -124,7 +124,7 @@
     <div class="periodical"><em>ROB 550: Robotics Systems Laboratory, 10/2022 ~ 12/2022, University of Michigan.</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
-        <!-- <a href="https://drive.google.com/file/d/1H9Okz8tbjHv_lQ5klEtiOcg1wDveOEfS/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a> -->
+        <a href="https://drive.google.com/file/d/18j28vnVaYSJiczoq4qZjGEpCztLyiUdq/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
         <!-- <a href="https://github.com/JunShao0104/Depth-aware-and-Laplacian-steered-Instance-Style-Transfer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
         <!-- <a href="https://www.youtube.com/watch?v=g6yx-9psMI4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a> -->
         <!-- <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
@@ -151,7 +151,7 @@
     <div class="periodical"><em>Undergraduate Entrepreneurship Project, 05/2020 ~ 05/2021, Tianjin University.</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
-        <!-- <a href="https://drive.google.com/file/d/1H9Okz8tbjHv_lQ5klEtiOcg1wDveOEfS/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a> -->
+        <a href="https://drive.google.com/file/d/1s7vkBjQHhHCh6thWbLEUb_09RL5YJQXL/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report (Chinese)</a>
         <!-- <a href="https://github.com/JunShao0104/Depth-aware-and-Laplacian-steered-Instance-Style-Transfer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
         <!-- <a href="https://www.youtube.com/watch?v=g6yx-9psMI4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a> -->
         <!-- <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
