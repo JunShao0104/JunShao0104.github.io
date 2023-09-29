@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-My name is Lingjun Zhao (Jason) and 赵凌隽 in Chinese. I spent the first 18 years of my life living in my hometown, Shanghai and took the later 4 years for my undergraduate in Tianjin. Now I'm a second-year <a href="https://robotics.umich.edu/" target="_blank"> Robotics</a> Master Student at <a href="https://umich.edu/" target="_blank"> University of Michigan</a>'s <a href="https://robotics.umich.edu/" target="_blank"> Robotics Institute</a>, supervised by Prof.<a href="https://robotics.umich.edu/profile/katherine-skinner/" target="_blank"> Katie Skinner</a>. I have been working as a research assistant in <a href="https://fcav.engin.umich.edu/" target="_blank">UM Ford Center for Autnonomous Vehicles (FCAV)</a> since Jan. 2023. I am interested in Robotics, Computer Vision and their applications in Self-driving Cars.
+My name is Lingjun Zhao (Jason) and 赵凌隽 in Chinese. I spent the first 18 years of my life living in my hometown, Shanghai and took the later 4 years for my undergraduate in Tianjin. Now I'm a second-year <a href="https://robotics.umich.edu/" target="_blank"> Robotics</a> Master Student at <a href="https://umich.edu/" target="_blank"> University of Michigan</a>'s <a href="https://robotics.umich.edu/" target="_blank"> Robotics Institute</a>, supervised by Prof.<a href="https://robotics.umich.edu/profile/katherine-skinner/" target="_blank"> Katie Skinner</a>. I have been working as a research assistant in <a href="https://fcav.engin.umich.edu/" target="_blank">UM Ford Center for Autnonomous Vehicles (FCAV)</a> since Jan. 2023. I am interested in Robotics, Computer Vision and their applications in Self-driving Cars. Currently, my research focuses on Robot Perception and Learning.
 
 Prior to joining the Master program, I completed my bachelor's degree in Mechanical Engineering from <a href="http://www.tju.edu.cn/english/index.htm" target = "_blank"> Tianjin University</a> advised by Prof. <a href= "http://faculty.tju.edu.cn/FujunWang/en/index.htm" target = "_blank"> Fujun Wang</a> and Prof. <a href="http://faculty.tju.edu.cn/SongLe/en/index.htm" target = "_blank"> Le Song</a>. During my undergraduate period, I worked on Soft Robot, Surgical Robot and Vision-based Tactile Sensor.
 
-Outside of academia, I began my journey as an amateur scoccer player since my middle school. Badminton and table tennis are also my favorite sports. I'm also passionate about photography and travelling.
+Outside of academia, I began my journey as an amateur scoccer player since my middle school. You could also catch me on the badminton and table tennis courts. Photography and traveling are also my favorites.
 
 
 
@@ -16,12 +16,12 @@ Outside of academia, I began my journey as an amateur scoccer player since my mi
 - **Robot Perception:** Object Detection / Tracking, Instance Segmentation, Semantic Scene Completion
 - **Sensor Fusion:** LiDAR-Camera-Radar Fusion for Autonomous Vehicles, Vision-Tactile Fusion for Robotic Manipulation
 - **Robot Learning:** Machine Learning and Reinforcement Learning for Robot Planning and Control
-- **Robot Localization and Mapping:** Semantic Mapping, NeRF-based Robot Localization
+- **Robot Localization and Mapping:** Robot Semantic Mapping, NeRF-based Robot Localization
 
 
 ## Course
-- **Graduate Level:** Math for Robotics, Robotics System Lab, Computer Vision, Mobile Robotics, Robot Learning for Planning and Control, Introduction to Robotic Manipulation, Autonomous Vehicles, etc.
-- **Undergraduate Level:** Mechanical Design and Manufacturing, Mechanics, Control of Mechatronic Systems, Introduction to Robotics, Introduction to Artificial Intelligence, Introduction to Electrical Engineering, etc.
+- **Graduate Level:** *Math for Robotics, Robotics System Lab, Computer Vision, Mobile Robotics, Robot Learning for Planning and Control, Introduction to Robotic Manipulation, Autonomous Vehicles, etc.*
+- **Undergraduate Level:** *Mechanical Design and Manufacturing, Mechanics, Control of Mechatronic Systems, Introduction to Robotics, Introduction to Artificial Intelligence, Introduction to Electrical Engineering, etc.*
 
 
 {% include_relative _includes/research.md %}
@@ -39,7 +39,7 @@ Outside of academia, I began my journey as an amateur scoccer player since my mi
 
 ## Skill
 - **Programming Languages:** Python, C/C++, MATLAB
-- **Frameworks and Tools:** PyTorch, MMDetection3D, ROS, Linux, Docker, GIT
+- **Frameworks and Tools:** PyTorch, MMDetection3D, ROS, GTSAM, Linux, Docker, GIT
 - **Engineering Softwares:** SolidWorks, Creo, AutoCAD, ABAQUS, Adams
 - **Languages:** Mandarin, English (TOEFL: 107; GRE: 322+4.0)
 

@@ -92,7 +92,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">ArmLab</div>
+    <div class="title">ArmLab: Autnomous Control, Block Detection, and Path Planning for a 5-DOF Robotic Manipulator</div>
     <div class="author">Zixuan Huang, <strong>Lingjun Zhao</strong>, Andrew Roberts</div>
     <div class="periodical"><em>ROB 550: Robotics Systems Laboratory, 08/2022 ~ 10/2022, University of Michigan.</em></div>
     <div class="links">
@@ -119,7 +119,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">BotLab</div>
+    <div class="title">BotLab: PID Control, SLAM and Exploration for a MBot</div>
     <div class="author">Jingyu Song, <strong>Lingjun Zhao</strong>, Deepak Nagalla</div>
     <div class="periodical"><em>ROB 550: Robotics Systems Laboratory, 10/2022 ~ 12/2022, University of Michigan.</em></div>
     <div class="links">
