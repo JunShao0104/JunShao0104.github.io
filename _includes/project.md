@@ -82,6 +82,61 @@
 
 
 
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/armlab_1.gif" class="teaser img-fluid z-depth-1">
+    <!-- <abbr class="badge">arXiv</abbr> -->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">ArmLab</div>
+    <div class="author">Zixuan Huang, <strong>Lingjun Zhao</strong>, Andrew Roberts</div>
+    <div class="periodical"><em>ROB 550: Robotics Systems Laboratory, 08/2022 ~ 10/2022, University of Michigan.</em></div>
+    <div class="links">
+        <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
+        <!-- <a href="https://drive.google.com/file/d/1H9Okz8tbjHv_lQ5klEtiOcg1wDveOEfS/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a> -->
+        <!-- <a href="https://github.com/JunShao0104/Depth-aware-and-Laplacian-steered-Instance-Style-Transfer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+        <!-- <a href="https://www.youtube.com/watch?v=g6yx-9psMI4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a> -->
+        <!-- <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+        <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Checkpoint1_high_speed_1.gif" class="teaser img-fluid z-depth-1">
+    <!-- <abbr class="badge">arXiv</abbr> -->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">BotLab</div>
+    <div class="author">Jingyu Song, <strong>Lingjun Zhao</strong>, Deepak Nagalla</div>
+    <div class="periodical"><em>ROB 550: Robotics Systems Laboratory, 10/2022 ~ 12/2022, University of Michigan.</em></div>
+    <div class="links">
+        <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
+        <!-- <a href="https://drive.google.com/file/d/1H9Okz8tbjHv_lQ5klEtiOcg1wDveOEfS/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a> -->
+        <!-- <a href="https://github.com/JunShao0104/Depth-aware-and-Laplacian-steered-Instance-Style-Transfer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+        <!-- <a href="https://www.youtube.com/watch?v=g6yx-9psMI4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a> -->
+        <!-- <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+        <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+
 <li>
 <div class="pub-row">
 
