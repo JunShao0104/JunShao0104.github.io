@@ -35,7 +35,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 15px;">
-    <img src="assets/img/pitch_intro_horizontal_icra.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/pitch_intro_horizontal_icra_drawing.jpg" class="teaser img-fluid z-depth-1">
     <!-- <abbr class="badge">arXiv</abbr> -->
   </div>
 
@@ -85,7 +85,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/surgical_robot_model.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/surgical_robot_model_drawing.png" class="teaser img-fluid z-depth-1">
     <!-- <abbr class="badge">arXiv</abbr> -->
   </div>
 
