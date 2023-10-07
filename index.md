@@ -8,7 +8,7 @@ My name is Lingjun Zhao (Jason) and 赵凌隽 in Chinese. I spent the first 18 y
 
 Prior to joining the Master program, I completed my bachelor's degree in Mechanical Engineering from <a href="http://www.tju.edu.cn/english/index.htm" target = "_blank"> Tianjin University</a> advised by Prof. <a href= "http://faculty.tju.edu.cn/FujunWang/en/index.htm" target = "_blank"> Fujun Wang</a> and Prof. <a href="http://faculty.tju.edu.cn/SongLe/en/index.htm" target = "_blank"> Le Song</a>. During my undergraduate period, I worked on Soft Robot, Surgical Robot and Vision-based Tactile Sensor.
 
-Outside of academia, I began my journey as an amateur scoccer player since my middle school. You could also catch me on the badminton and table tennis courts. Photography and traveling are also my favorites.
+Outside of academia, I began my journey as an amateur soccer player since my middle school. You could also catch me on the badminton and table tennis courts. Photography and traveling are also my favorites.
 
 
 
