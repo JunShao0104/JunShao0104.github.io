@@ -95,7 +95,7 @@
     <div class="periodical"><em>Undergraduate Final Year Individual Research Thesis, 12/2021 ~ 06/2022, Tianjin University</em></div>
     <div class="links">
       <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
-      <a href="https://drive.google.com/file/d/187685UOw7jaJFn8rOL3MPipmF9DLb5cC/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thesis (Chinese)</a>
+      <a href="https://drive.google.com/file/d/187685UOw7jaJFn8rOL3MPipmF9DLb5cC/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Thesis (Chinese)</a>
       <!-- <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
