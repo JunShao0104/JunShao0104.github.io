@@ -41,7 +41,7 @@ Outside of academia, I began my journey as an amateur soccer player since my mid
 - **Programming Languages:** Python, C/C++, MATLAB
 - **Frameworks and Tools:** PyTorch, MMDetection3D, ROS, GTSAM, Linux, Docker, GIT
 - **Engineering Softwares:** SolidWorks, Creo, AutoCAD, ABAQUS, Adams
-- **Languages:** Mandarin, English (TOEFL: 107; GRE: 322+4.0)
+- **Languages:** English, Mandarin
 
 
 
