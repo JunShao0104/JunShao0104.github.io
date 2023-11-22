@@ -10,6 +10,8 @@ Prior to joining the Master program, I completed my bachelor's degree in Mechani
 
 Outside of academia, I began my journey as an amateur soccer player since my middle school. You could also catch me on the badminton and table tennis courts. Photography and traveling are also my favorites.
 
+**I'm actively looking for a Ph.D. position in Robotics and Computer Vision for Fall 2024. Feel free to drop me an email if there is a good fit.**
+
 
 
 ## Research Interest
