@@ -16,7 +16,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation</div>
     <div class="author"><strong>Lingjun Zhao</strong>, Jingyu Song, Katherine A. Skinner</div>
-    <div class="periodical"><em>Under Review, 06/2023 ~ Present, FCAV, University of Michigan.</em></div>
+    <div class="periodical"><em>Under Review, 05/2023 ~ 12/2023, FCAV, University of Michigan.</em></div>
     <!-- <div class="links">
     <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -36,7 +36,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 15px;">
     <img src="assets/img/early_new_icra.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICRA</abbr>
+    <!-- <abbr class="badge">ICRA</abbr> -->
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -68,7 +68,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10173739" target="_blank">A Tactile Sensor With Slippage Prediction by Unequal-Height Dome Array</a></div>
     <div class="author">Yong Yang, Meirong Zhao, Yifan Jia, <strong>Lingjun Zhao</strong>, Dongji Piao, Yelong Zheng, Le Song. </div>
-    <div class="periodical"><em>IEEE Sensors Journal (publication in July. 2023), 05/2021 ~ 09/2021, Tianjin University.</em></div>
+    <div class="periodical"><em>IEEE Sensors Journal, 05/2021 ~ 09/2021, Tianjin University.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/10173739" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <!-- <a href="https://www.opencasestudies.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
