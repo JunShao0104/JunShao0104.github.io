@@ -4,6 +4,34 @@
 <ol class="bibliography">
 
 
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/parking_demo_sample_1.gif" class="teaser img-fluid z-depth-1">
+    <!-- <abbr class="badge">arXiv</abbr> -->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Automatic Parking System: Dynamics Model, MPC Control and Hybrid A* Planning for Self-parking Vehicles</div>
+    <div class="author">ROB 599: Autonomous Vehicles</div>
+    <div class="periodical"><em>09/2023 ~ 12/2023, University of Michigan</em></div>
+    <div class="links">
+        <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
+        <a href="https://drive.google.com/file/d/1p8DhpMSlSlAVXpF5hHZ6mfsdhTL23QI4/view?usp=drive_link" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
+        <a href="https://github.com/wdliu356/Automatic-Parking/tree/real_h_astar" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+        <!-- <a href="https://www.youtube.com/watch?v=g6yx-9psMI4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a> -->
+        <!-- <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+        <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+
 <li>
 <div class="pub-row">
 
@@ -14,8 +42,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Loc-NeRF++: An Enhanced Robot Localization using Neural Radiance Fields</div>
-    <div class="author"><strong>Lingjun Zhao</strong>, Donghao Li, Longju Bai, Joseph Taylor, Brian Wang</div>
-    <div class="periodical"><em>ROB 530: Mobile Robotics, 01/2023 ~ 04/2023, University of Michigan.</em></div>
+    <div class="author">ROB 530: Mobile Robotics</div>
+    <div class="periodical"><em>01/2023 ~ 04/2023, University of Michigan</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
         <a href="https://drive.google.com/file/d/1rEk7m628LLQmik8QQDjR7N0RCjglH2Nq/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
@@ -39,8 +67,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Ordinary Differential Equation Based Learning Dynamics for Robotic Systems</div>
-    <div class="author"><strong>Lingjun Zhao</strong>, Donghao Li</div>
-    <div class="periodical"><em>ROB 498: Robot Learning for Planning and Control, 01/2023 ~ 04/2023, University of Michigan.</em></div>
+    <div class="author">ROB 498: Robot Learning for Planning and Control</div>
+    <div class="periodical"><em>01/2023 ~ 04/2023, University of Michigan</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
         <a href="https://drive.google.com/file/d/1eB448fKJZDSLUmQ_KLl00uL7lZmZ98Cu/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
@@ -66,8 +94,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Depth-aware and Laplacian-steered Instance Style Transfer</div>
-    <div class="author"><strong>Lingjun Zhao</strong>, Junkai Zhang</div>
-    <div class="periodical"><em>EECS 504: Computer Vision, 08/2022 ~ 12/2022, University of Michigan.</em></div>
+    <div class="author">EECS 504: Computer Vision</div>
+    <div class="periodical"><em>08/2022 ~ 12/2022, University of Michigan</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
         <a href="https://drive.google.com/file/d/1H9Okz8tbjHv_lQ5klEtiOcg1wDveOEfS/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
@@ -93,8 +121,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">ArmLab: Autnomous Control, Block Detection, and Path Planning for a 5-DOF Robotic Manipulator</div>
-    <div class="author">Zixuan Huang, <strong>Lingjun Zhao</strong>, Andrew Roberts</div>
-    <div class="periodical"><em>ROB 550: Robotics Systems Laboratory, 08/2022 ~ 10/2022, University of Michigan.</em></div>
+    <div class="author">ROB 550: Robotics Systems Laboratory</div>
+    <div class="periodical"><em>08/2022 ~ 10/2022, University of Michigan</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
         <a href="https://drive.google.com/file/d/1NQjweeltnoDfmNbUAtlVZsOcliME0gbP/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report (Robot Control part)</a>
@@ -120,8 +148,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">BotLab: PID Control, SLAM and Exploration for a MBot</div>
-    <div class="author">Jingyu Song, <strong>Lingjun Zhao</strong>, Deepak Nagalla</div>
-    <div class="periodical"><em>ROB 550: Robotics Systems Laboratory, 10/2022 ~ 12/2022, University of Michigan.</em></div>
+    <div class="author">ROB 550: Robotics Systems Laboratory</div>
+    <div class="periodical"><em>10/2022 ~ 12/2022, University of Michigan</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
         <a href="https://drive.google.com/file/d/18j28vnVaYSJiczoq4qZjGEpCztLyiUdq/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
@@ -147,11 +175,11 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Design and Manufacturing of Soft Manipulator with Compound Structure</div>
-    <div class="author"><strong>Lingjun Zhao</strong>, Lie Ma, Dongji Piao, Zhen Zhu, Hongfei Chen</div>
-    <div class="periodical"><em>Undergraduate Entrepreneurship Project, 05/2020 ~ 05/2021, Tianjin University.</em></div>
+    <div class="author">Undergraduate Entrepreneurship Project</div>
+    <div class="periodical"><em>05/2020 ~ 05/2021, Tianjin University</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
-        <a href="https://drive.google.com/file/d/1s7vkBjQHhHCh6thWbLEUb_09RL5YJQXL/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report (Chinese)</a>
+        <!-- <a href="https://drive.google.com/file/d/1s7vkBjQHhHCh6thWbLEUb_09RL5YJQXL/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report (Chinese)</a> -->
         <!-- <a href="https://github.com/JunShao0104/Depth-aware-and-Laplacian-steered-Instance-Style-Transfer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
         <!-- <a href="https://www.youtube.com/watch?v=g6yx-9psMI4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a> -->
         <!-- <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
