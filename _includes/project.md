@@ -15,7 +15,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Automatic Parking System: Dynamics Model, MPC Control and Hybrid A* Planning for Self-parking Vehicles</div>
-    <div class="author">ROB 599: Autonomous Vehicles</div>
+    <div class="author">ROB 599: Autonomous Vehicles, directed by Prof. Anouck Girard</div>
     <div class="periodical"><em>09/2023 ~ 12/2023, University of Michigan</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
@@ -42,7 +42,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Loc-NeRF++: An Enhanced Robot Localization using Neural Radiance Fields</div>
-    <div class="author">ROB 530: Mobile Robotics</div>
+    <div class="author">ROB 530: Mobile Robotics, directed by Prof. Maani Ghaffari</div>
     <div class="periodical"><em>01/2023 ~ 04/2023, University of Michigan</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
@@ -67,7 +67,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Ordinary Differential Equation Based Learning Dynamics for Robotic Systems</div>
-    <div class="author">ROB 498: Robot Learning for Planning and Control</div>
+    <div class="author">ROB 498: Robot Learning for Planning and Control, directed by Prof. Nima Fazeli and Dmitry Berenson</div>
     <div class="periodical"><em>01/2023 ~ 04/2023, University of Michigan</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
@@ -94,7 +94,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Depth-aware and Laplacian-steered Instance Style Transfer</div>
-    <div class="author">EECS 504: Computer Vision</div>
+    <div class="author">EECS 504: Computer Vision, directed by Prof. Andrew Owens</div>
     <div class="periodical"><em>08/2022 ~ 12/2022, University of Michigan</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
@@ -121,7 +121,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">ArmLab: Autnomous Control, Block Detection, and Path Planning for a 5-DOF Robotic Manipulator</div>
-    <div class="author">ROB 550: Robotics Systems Laboratory</div>
+    <div class="author">ROB 550: Robotics Systems Laboratory, directed by Prof. Peter Gaskell</div>
     <div class="periodical"><em>08/2022 ~ 10/2022, University of Michigan</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
@@ -148,7 +148,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">BotLab: PID Control, SLAM and Exploration for a MBot</div>
-    <div class="author">ROB 550: Robotics Systems Laboratory</div>
+    <div class="author">ROB 550: Robotics Systems Laboratory, directed by Prof. Peter Gaskell</div>
     <div class="periodical"><em>10/2022 ~ 12/2022, University of Michigan</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
@@ -175,7 +175,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Design and Manufacturing of Soft Manipulator with Compound Structure</div>
-    <div class="author">Undergraduate Entrepreneurship Project</div>
+    <div class="author">Undergraduate Entrepreneurship Project, directed by Prof. Fujun Wang</div>
     <div class="periodical"><em>05/2020 ~ 05/2021, Tianjin University</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
