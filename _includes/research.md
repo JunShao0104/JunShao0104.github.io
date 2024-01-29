@@ -36,21 +36,21 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 15px;">
     <img src="assets/img/early_new_icra.jpg" class="teaser img-fluid z-depth-1">
-    <!-- <abbr class="badge">ICRA</abbr> -->
+    <abbr class="badge">ICRA</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">LiRaFusion: Deep Adaptive LiDAR-Radar Fusion for 3D Object Detection</div>
     <div class="author">Jingyu Song, <strong>Lingjun Zhao</strong>, Katherine A. Skinner</div>
-    <div class="periodical"><em>Under Review, IEEE International Conference on Robotics and Automation 2024, 01/2023 ~ 09/2023, FCAV, University of Michigan.</em></div>
-    <!-- <div class="links">
-    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <div class="periodical"><em>Accepted! IEEE International Conference on Robotics and Automation 2024, 01/2023 ~ 09/2023, FCAV, University of Michigan.</em></div>
+    <div class="links">
+    <a href="https://drive.google.com/file/d/1eiTUNbkaD7sSCFtgDoLtnkN8W2tgEkE_/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <!-- <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
       <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
-    </div> -->
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
   </div>
 </div>
 </li>
