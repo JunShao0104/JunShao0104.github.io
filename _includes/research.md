@@ -10,13 +10,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/gt_crkd_teacher_bev.png" class="teaser img-fluid z-depth-1">
-    <!-- <abbr class="badge">arXiv</abbr> -->
+    <abbr class="badge">CVPR</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation</div>
     <div class="author"><strong>Lingjun Zhao</strong>, Jingyu Song, Katherine A. Skinner</div>
-    <div class="periodical"><em>Under Review, 05/2023 ~ 12/2023, FCAV, University of Michigan.</em></div>
+    <div class="periodical"><em>Accepted! IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024, 05/2023 ~ 11/2023, FCAV, University of Michigan.</em></div>
     <!-- <div class="links">
     <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -42,7 +42,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">LiRaFusion: Deep Adaptive LiDAR-Radar Fusion for 3D Object Detection</div>
     <div class="author">Jingyu Song, <strong>Lingjun Zhao</strong>, Katherine A. Skinner</div>
-    <div class="periodical"><em>Accepted! IEEE International Conference on Robotics and Automation 2024, 01/2023 ~ 09/2023, FCAV, University of Michigan.</em></div>
+    <div class="periodical"><em>Accepted! IEEE International Conference on Robotics and Automation (ICRA) 2024, 01/2023 ~ 09/2023, FCAV, University of Michigan.</em></div>
     <div class="links">
     <a href="https://drive.google.com/file/d/1eiTUNbkaD7sSCFtgDoLtnkN8W2tgEkE_/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <!-- <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
