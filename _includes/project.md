@@ -125,7 +125,7 @@
     <div class="periodical"><em>08/2022 ~ 10/2022, University of Michigan</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
-        <a href="https://drive.google.com/file/d/1NQjweeltnoDfmNbUAtlVZsOcliME0gbP/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report (Robot Control part)</a>
+        <!-- <a href="https://drive.google.com/file/d/1NQjweeltnoDfmNbUAtlVZsOcliME0gbP/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report (Robot Control part)</a> -->
         <!-- <a href="https://github.com/JunShao0104/Depth-aware-and-Laplacian-steered-Instance-Style-Transfer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
         <!-- <a href="https://www.youtube.com/watch?v=g6yx-9psMI4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a> -->
         <!-- <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
@@ -152,7 +152,7 @@
     <div class="periodical"><em>10/2022 ~ 12/2022, University of Michigan</em></div>
     <div class="links">
         <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
-        <a href="https://drive.google.com/file/d/18j28vnVaYSJiczoq4qZjGEpCztLyiUdq/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a>
+        <!-- <a href="https://drive.google.com/file/d/18j28vnVaYSJiczoq4qZjGEpCztLyiUdq/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Report</a> -->
         <!-- <a href="https://github.com/JunShao0104/Depth-aware-and-Laplacian-steered-Instance-Style-Transfer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
         <!-- <a href="https://www.youtube.com/watch?v=g6yx-9psMI4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a> -->
         <!-- <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
