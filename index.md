@@ -11,13 +11,6 @@ I obtained my master degree at <a href="https://umich.edu/" target="_blank"> Uni
 Outside of academia, I began my journey as an amateur soccer player since my middle school. You could also catch me on the badminton and table tennis courts. Photography and traveling are also my favorites.
 
 
-
-## Education
-- **PhD in *Robotics*, Georgia Institute of Technology, Aug. 2024 ~ ?**
-- **Master in *Robotics*, University of Michigan, Aug. 2022 ~ May. 2024**
-- **Bachelor in *Mechanical Engineering*, Tianjin University, Sep. 2018 ~ June. 2022**
-
-
 ## Research Interest
 - **Robot Perception**
 - **Robot Learning**
@@ -41,6 +34,12 @@ Outside of academia, I began my journey as an amateur soccer player since my mid
 - **[Jan. 2023 ~ May. 2024]** *Graduate Research Assistant*, <a href="https://fcav.engin.umich.edu/" target="_blank">UM Ford Center for Autnonomous Vehicles (FCAV)</a>, University of Michigan, supervised by Prof.<a href="https://robotics.umich.edu/profile/katherine-skinner/" target="_blank"> Katie Skinner</a>.
 - **[May. 2021 ~ Sep. 2021]** *Summer Intern*, <a href="http://mnmt2005.tju.edu.cn/index/index.htm" target="_blank">Laboratory of Micro/Nano Manufacturing Technology (MNMT)</a>, Tianjin University, supervised by Prof. <a href="http://faculty.tju.edu.cn/SongLe/en/index.htm" target = "_blank"> Le Song</a>.
 - **[Apr. 2020 ~ June. 2022]** *Undergraduate Research Assistant*, <a href="http://www.tju.edu.cn/english/info/1035/1377.htm" target="_blank">Key Laboratory of Mechanism Theory and Equipment Design</a>, Tianjin University, supervised by Prof. <a href= "http://faculty.tju.edu.cn/FujunWang/en/index.htm" target = "_blank"> Fujun Wang</a>. -->
+
+
+## Education
+- **[Aug. 2024 ~ ?] PhD in *Robotics*, Georgia Institute of Technology**
+- **[Aug. 2022 ~ May. 2024] Master in *Robotics*, University of Michigan**
+- **[Sep. 2018 ~ June. 2022] Bachelor in *Mechanical Engineering*, Tianjin University**
 
 
 
