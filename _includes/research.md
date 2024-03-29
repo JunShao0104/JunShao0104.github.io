@@ -66,7 +66,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10173739" target="_blank">A Tactile Sensor With Slippage Prediction by Unequal-Height Dome Array</a></div>
+    <div class="title">A Tactile Sensor With Slippage Prediction by Unequal-Height Dome Array</div>
     <div class="author">Yong Yang, Meirong Zhao, Yifan Jia, <strong>Lingjun Zhao</strong>, Dongji Piao, Yelong Zheng, Le Song. </div>
     <div class="periodical"><em>IEEE Sensors Journal, 05/2021 ~ 09/2021, Tianjin University.</em></div>
     <div class="links">

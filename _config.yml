@@ -5,7 +5,7 @@ title: Lingjun Zhao
 # subtitle:
 position: Incoming PhD Student
 affiliation: Georgia Institute of Technology
-subaffiliation: Robotics (Aerospace Engineering)
+subaffiliation: Institute for Robotics and Intelligent Machines
 affiliation_link: https://www.gatech.edu/
 subaffiliation_link: https://research.gatech.edu/robotics
 email: lingjunz@umich.edu
@@ -30,7 +30,7 @@ linkedin: https://www.linkedin.com/in/lingjun-zhao-31035b257/
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/personal_photo.jpg
 # logo: ./assets/img/logo.png
-favicon: ./assets/img/GT.jpg
+favicon: ./assets/img/GT_bee.png
 favicon_dark: ./assets/img/GT.jpg
 
 # Footnote
