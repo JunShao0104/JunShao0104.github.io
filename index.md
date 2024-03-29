@@ -4,17 +4,17 @@ layout: homepage
 
 ## About Me
 
-Hi! I'm Lingjun Zhao (Jason), an incoming PhD student in <a href="https://research.gatech.edu/robotics" target="_blank">Robotics</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>. I'm also affiliated with <a href="https://ae.gatech.edu/" target="_blank">Daniel Guggenheim School of Aerospace Engineering</a>. I'm co-advised by Prof. <a href="https://ganlumomo.github.io/" target="_blank">Lu Gan</a> and Prof. <a href="https://faculty.cc.gatech.edu/~hays/" target="_blank">James Hays</a>. I'm broadly interested in Perception, Planning and Control. My current research focuses on the intersection of Robotics and Computer Vision.
+Hi! This is Lingjun Zhao (Jason), an incoming PhD student in <a href="https://research.gatech.edu/robotics" target="_blank">Robotics</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>, where I'm co-advised by Prof. <a href="https://ganlumomo.github.io/" target="_blank">Lu Gan</a> and Prof. <a href="https://faculty.cc.gatech.edu/~hays/" target="_blank">James Hays</a>. I'm also affiliated with <a href="https://ae.gatech.edu/" target="_blank">Daniel Guggenheim School of Aerospace Engineering</a>. I'm broadly interested in Robot Perception, Planning and Control. My current research focuses on the intersection of Robotics and Computer Vision.
 
-I obtained my master degree at <a href="https://umich.edu/" target="_blank"> University of Michigan</a>'s <a href="https://robotics.umich.edu/" target="_blank"> Robotics Institute</a>, supervised by Prof.<a href="https://robotics.umich.edu/profile/katherine-skinner/" target="_blank">Katie Skinner</a>. I worked as a research assistant in <a href="https://fcav.engin.umich.edu/" target="_blank">UM Ford Center for Autnonomous Vehicles (FCAV)</a>, researching on robot perception for self-driving cars. Prior to joining the Master program, I completed my bachelor's degree in Mechanical Engineering from <a href="http://www.tju.edu.cn/english/index.htm" target = "_blank"> Tianjin University</a> advised by Prof. <a href= "http://faculty.tju.edu.cn/FujunWang/en/index.htm" target = "_blank"> Fujun Wang</a> and Prof. <a href="http://faculty.tju.edu.cn/SongLe/en/index.htm" target = "_blank"> Le Song</a>. During my undergraduate period, I worked on Soft Robot, Surgical Robot and Vision-based Tactile Sensor.
+I obtained my master degree at <a href="https://umich.edu/" target="_blank"> University of Michigan</a>'s <a href="https://robotics.umich.edu/" target="_blank"> Robotics Institute</a>, supervised by Prof.<a href="https://robotics.umich.edu/profile/katherine-skinner/" target="_blank">Katie Skinner</a>. I worked as a research assistant in <a href="https://fcav.engin.umich.edu/" target="_blank">UM Ford Center for Autnonomous Vehicles (FCAV)</a>, researching on robot perception for self-driving cars. Prior to joining the Master program, I completed my bachelor's degree in <a href="https://me.tju.edu.cn/enindex.jsp" target = "_blank">Mechanical Engineering</a> at <a href="http://www.tju.edu.cn/english/index.htm" target = "_blank"> Tianjin University</a>, where I was advised by Prof. <a href= "http://faculty.tju.edu.cn/FujunWang/en/index.htm" target = "_blank"> Fujun Wang</a> and Prof. <a href="http://faculty.tju.edu.cn/SongLe/en/index.htm" target = "_blank"> Le Song</a>. During my undergraduate period, I worked on Soft Robot, Surgical Robot and Vision-based Tactile Sensor.
 
 Outside of academia, I began my journey as an amateur soccer player since my middle school. You could also catch me on the badminton and table tennis courts. Photography and traveling are also my favorites.
 
 
 ## Research Interest
 - **Robot Perception**
-- **Robot Learning**
-- **Multi-modal Sensor Fusion**
+- **Multi-modal Learning**
+- **Sensor Fusion**
 - **Autonomous Driving**
 
 
