@@ -10,11 +10,13 @@ I obtained my master degree at <a href="https://umich.edu/" target="_blank"> Uni
 
 <!-- Outside of academia, I began my journey as an amateur soccer player since my middle school. You could also catch me on the badminton and table tennis courts. Photography and traveling are also my favorites. -->
 
+<span style="color:red;">I will be joining <a href="https://www.tri.global/" target="_blank">Toyota Research Institute</a> as a Research Intern in Summer 2026!</span>
+
 
 ## Research Interests
-- **3D Vision for Robot Perception and Navigation**
+- **3D Vision for Robotics**
 - **Physical Scene Understanding**
-- **End-to-End Autonomous Driving**
+- **Multi-Modal Robot Learning**
 
 
 <!-- ## Course

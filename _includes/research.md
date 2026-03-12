@@ -11,7 +11,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/ShelfGaussian_teaser.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Under Review</abbr>
+    <abbr class="badge">CVPR 2026 Findings</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -38,7 +38,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/GaussianFormer3D_teaser.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">RSS Workshop 2025</abbr>
+    <abbr class="badge">ICRA 2026</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
