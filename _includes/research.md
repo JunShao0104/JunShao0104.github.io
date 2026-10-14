@@ -6,6 +6,60 @@
 
 
 
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/neusp_teaser.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IROS 2026 SeMaNa Workshop</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">NeuSP: Neural Point-based Semantic-Physical Continual Terrain Understanding for Off-Road Autonomous Driving</div>
+    <div class="author"><strong>Lingjun Zhao</strong>, Marcus Greiff, Michael Thompson, Takeru Shirasawa, Lu Gan, John Subosits, Ray Zhang.</div>
+    <div class="periodical"><em>Toyota Research Institute, Georgia Institute of Technology.</em></div>
+    <div class="links">
+    <!-- <a href="https://lunarlab-gatech.github.io/ShelfGaussian/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
+      <!-- <a href="https://openreview.net/forum?id=K9q01jxD0C" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a> -->
+      <!-- <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/cogaussian_poster_qualitative.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IROS 2026 SeMaNa Workshop</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">CoGaussian: Open-Vocabulary Gaussian-based Collaborative 3D Scene Understanding</div>
+    <div class="author">Om Shivam Verma*, Shaya Farahmand*, <strong>Lingjun Zhao</strong>, Lu Gan.</div>
+    <div class="periodical"><em>Georgia Institute of Technology.</em></div>
+    <div class="links">
+    <!-- <a href="https://lunarlab-gatech.github.io/ShelfGaussian/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
+      <a href="https://openreview.net/forum?id=K9q01jxD0C" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <!-- <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
+      <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+
 <li>
 <div class="pub-row">
 
