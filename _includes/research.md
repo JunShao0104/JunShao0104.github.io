@@ -11,14 +11,14 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/neusp_teaser.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/neusp_teaser_new.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Under Review</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">NeuSP: Neural Point-based Semantic-Physical Continual Terrain Understanding for Off-Road Autonomous Driving</div>
     <div class="author"><strong>Lingjun Zhao</strong>, Marcus Greiff, Michael Thompson, Takeru Shirasawa, Lu Gan, John Subosits, Ray Zhang.</div>
-    <div class="periodical"><em>Toyota Research Institute, Georgia Institute of Technology.</em></div>
+    <div class="periodical"><em>Toyota Research Institute.</em></div>
     <div class="links">
     <!-- <a href="https://lunarlab-gatech.github.io/ShelfGaussian/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
       <!-- <a href="https://openreview.net/forum?id=K9q01jxD0C" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a> -->
